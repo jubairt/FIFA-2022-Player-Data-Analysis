@@ -15,7 +15,8 @@ This project is centered around cleaning and preparing the FIFA 2022 dataset for
 
 🔧 **Tools Used**:  
 - **Python** 🐍  
-- **pandas** for data cleaning 🧹  
+- **pandas** for data cleaning 🧹
+- **seaborn** for visualization 📊 
 
 ---
 
