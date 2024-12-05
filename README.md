@@ -1,6 +1,6 @@
 # ⚽ FIFA 2022: Data Cleaning and Analysis
 
-![FIFA 2022](FIFA 2022 World Cup.webp](https://github.com/jubairt/FIFA-2022-Player-Data-Analysis/blob/main/FIFA%202022%20World%20Cup.webp)
+<img src="FIFA 2022 World Cup.webp" alt="FIFA 2022" />
 
 🏆 **Explore the FIFA 2022 dataset**  
 This project is centered around cleaning and preparing the FIFA 2022 dataset for deeper analysis. The main focus is on handling missing values, standardizing columns, and cleaning player statistics to create a clean dataset that can be used for further analysis.
