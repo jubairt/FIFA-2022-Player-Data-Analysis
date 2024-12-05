@@ -37,4 +37,15 @@ The dataset underwent several key cleaning steps:
 - **Cleaned Data**: After cleaning, the dataset is ready for more advanced analysis and visualization.
 - **Missing Values**: Missing or irrelevant data was addressed, ensuring a more accurate analysis later on.
 - **Outliers**: Outliers were removed to ensure that extreme values didn’t skew the results.
+
+---
+
+## 📂 Files in the Repository  
+
+- [Cleaned Dataset](https://github.com/jubairt/FIFA-2022-Player-Data-Analysis/blob/main/fifa_2022_players_cleaned.xlsx)  
+- [Raw Dataset](https://github.com/jubairt/FIFA-2022-Player-Data-Analysis/blob/main/fifa_2022_players_raw.csv)  
+- [Jupyter Notebook](https://github.com/jubairt/FIFA-2022-Player-Data-Analysis/blob/main/FIFA_2022_Player_Data_Analysis.ipynb)  
+
+
+
   
